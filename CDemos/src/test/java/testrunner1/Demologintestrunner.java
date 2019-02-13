@@ -10,6 +10,6 @@ import cucumber.api.junit.Cucumber;
 ,glue= {"stepdefination"}
 ,plugin= {"pretty","json.target/cucumber-reports/Cucumber.json"},
 monochrome=true)
-public class testrunner {
+public class Testrunner {
 
 }
